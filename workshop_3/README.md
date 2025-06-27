@@ -1,13 +1,11 @@
 # Практична №4_1 - # Завдання для самостійного опрацювання
-### Виконав:  
+### Виконав:
 **Рєпін Олексій**, Група: **ІПЗ-2.03**
 ## Завдання:
 1. Розглянути завдання **Basic** із прикріпленого документа
 2. Повторити у фігмі “один в один” елемент дизайну представленний у файлі
 3. Написати звіт
-
 ---
-
 ## Хід роботи:
 1. Аналіз
     - Меню складаєтся з 4 елементів
@@ -19,26 +17,23 @@
     - Зниження непрозоросты до 75%
     - Додавання тіні до основи
 3. Результати
-    | Елемент | Результат |
+	| Елемент | Результат |
     | --- | --- |
-    | Референс | ![[images/reference.png]] |
-    | Виконана робота | ![[context_menu.png]] |
-
+    | Референс |  ![фото](images/reference.png) |
+    | Виконана робота | ![фото](images/context_menu.png) |
+    
     Посилання на проект: [workshop_3](https://www.figma.com/design/Sed2vzgL81bKNi2npd6WTI/workshop_3?node-id=0-1&t=crOOmOjLHKnTvcJM-1)
-
-## Використані матеріали:  
-Іконки взяти готові з https://fonts.google.com/icons  
+## Використані матеріали:
+Іконки взяти готові з https://fonts.google.com/icons
 Шрифт Roboto взяти з Google Fonts
-
 ## Користні матеріали:
-**Плагіни Figma:**   
+**Плагіни Figma:**
 Feather Icons
-Iconsax 6000+  – імпорт значків (іконок)  
-
-**Посилання:**  
-https://fonts.google.com/icons  
-https://www.iconfinder.com/free_icons  
-https://www.vecteezy.com/free-vector/icons  
-https://iconmonstr.com  
-https://www.flaticon.com  
-https://iconarchive.com  
+Iconsax 6000+ – імпорт значків (іконок)
+**Посилання:**
+https://fonts.google.com/icons
+https://www.iconfinder.com/free_icons
+https://www.vecteezy.com/free-vector/icons
+https://iconmonstr.com
+https://www.flaticon.com
+https://iconarchive.com
